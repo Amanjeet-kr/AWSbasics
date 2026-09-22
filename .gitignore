@@ -1,0 +1,21 @@
+# Compiled C programs
+greeting
+greeting.exe
+a.out
+*.o
+
+# Compiled Java files
+*.class
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local environment files — never commit credentials
+.env
+.env.*
