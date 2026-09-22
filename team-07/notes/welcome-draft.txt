@@ -1,0 +1,32 @@
+AWS CLUB — TEAM WELCOME DRAFT
+
+Team Number: 01
+Team Name: CHANGE_ME
+
+Team Members:
+- MEMBER_1
+- MEMBER_2
+- MEMBER_3
+- MEMBER_4
+
+Use first names or nicknames only. Add or remove member lines as needed.
+
+About Our Team:
+We are beginners learning Linux commands and GitHub collaboration.
+
+Three Things We Want to Learn:
+1. CHANGE_ME
+2. CHANGE_ME
+3. CHANGE_ME
+
+Our Team Motto:
+CHANGE_ME
+
+Editing Instructions:
+1. Copy this original file into the backup folder.
+2. Rename this file to welcome.txt.
+3. Replace the placeholders in welcome.txt.
+4. Keep the backup copy unchanged.
+
+Do not include passwords, AWS access keys, phone numbers, or other
+private information.

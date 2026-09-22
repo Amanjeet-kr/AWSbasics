@@ -1,0 +1,35 @@
+body {
+    background-color: #f5f5f5;
+    font-family: Arial;
+    text-align: center;
+}
+
+.team-card {
+    width: 60%;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #8e44ad;
+}
+
+h2 {
+    color: #27ae60;
+}
+
+p {
+    font-size: 18px;
+    color: #333333;
+}
+
+button {
+    background-color: #8e44ad;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

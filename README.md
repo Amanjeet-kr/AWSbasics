@@ -1,6 +1,6 @@
-# AWS Club: Linux & GitHub Starter Challenge
+# AWS SBG: Linux & GitHub Starter Challenge
 
-Welcome to our AWS Club inauguration hands-on activity!
+Welcome to our AWS SBG inauguration hands-on activity!
 
 Your mission is to repair a small project, organize its files using Linux
 commands, and submit your changes through GitHub.

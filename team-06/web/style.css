@@ -1,0 +1,40 @@
+body {
+    background-color: #eef7ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.learning-card {
+    width: 60%;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #0056b3;
+}
+
+h2 {
+    color: #198754;
+}
+
+p {
+    font-size: 18px;
+}
+
+ol {
+    width: 250px;
+    margin: 20px auto;
+    text-align: left;
+}
+
+button {
+    background-color: #0056b3;
+    text-colour: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

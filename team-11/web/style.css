@@ -1,0 +1,35 @@
+body {
+    background-color: #eeeeee;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.team-box {
+    width: 60%;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: green;
+}
+
+p {
+    font-size: 18px;
+    color: #333333;
+}
+
+button {
+    background-color: darkblue;
+    color: white;
+    padding: tenpx 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

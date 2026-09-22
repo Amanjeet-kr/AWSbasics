@@ -1,0 +1,40 @@
+body {
+    background-color: #eaf4ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.registration-card {
+    width: 60%;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #0d6efd;
+}
+
+h2 {
+    color: #198754;
+}
+
+p {
+    font-size: eighteenpx;
+    color: #333333;
+}
+
+input {
+    padding: 8px;
+    width: 200px;
+}
+
+button {
+    background-color: #0d6efd;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

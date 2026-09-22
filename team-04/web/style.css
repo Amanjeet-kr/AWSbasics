@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: lightgren;
+}
+
+.profile {
+    width: 60%;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #1f4e79;
+}
+
+h2 {
+    color: #2e8b57;
+}
+
+p {
+    font-size: 18px;
+    color: #333333;
+}
+
+button {
+    background-color: #1f4e79;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #163a5c;
+}

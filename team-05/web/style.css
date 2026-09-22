@@ -1,0 +1,39 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.eventbox {
+    width: 60%;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #ff9900;
+}
+
+h2 {
+    color: #1f4e79;
+}
+
+p {
+    font-size: 18px;
+}
+
+ul {
+    list-style-position: inside;
+    font-size: 17px;
+}
+
+button {
+    background-color: #ff9900;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

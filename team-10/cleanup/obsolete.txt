@@ -1,0 +1,25 @@
+OBSOLETE FILE — SAFE TO REMOVE FOR THIS EXERCISE
+
+This file represents an outdated event note.
+
+Old Event Title:
+OBSOLETE FILE — SAFE TO REMOVE FOR THIS EXERCISE
+
+This file represents an outdated event note.
+
+Old Event Title: Practice Welcome Session
+Status: Cancelled
+Action Required: Remove this outdated note.
+
+Instructions:
+1. Read this file using cat.
+2. Confirm that you are inside your assigned team folder.
+3. Delete only this file using:
+
+   rm cleanup/obsolete.txt
+
+4. Remove the now-empty cleanup folder using:
+
+   rmdir cleanup
+
+Do not delete other project files.
